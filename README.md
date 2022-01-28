@@ -1,7 +1,7 @@
 apiVersion: v23
 kind: Half Human, Half Coder
 metadata:
-  name: Sergio Rebick 
+name: Sergio Rebick 
 spec:
   purpose: Check performance on systems
   locations:
@@ -12,5 +12,5 @@ spec:
   favorites:
     number: 55
     animal: :penguin:
-    emoji: `:zap:“:racehorse:`
+    emoji: :rocket:
     food: :apple:
