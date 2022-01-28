@@ -2,14 +2,19 @@
 ```diff
 @@ apiVersion: v23 @@  
 - kind: Half Human, Half Coder  
+
 # metadata:  
 + name: Sergio Rebick  
++ education:
+!   Master degree: Security of IT
+!   Degree: Computer Systems Engineer
+
 # spec:  
 +   purpose: Check performance on systems  
 +   locations:  
--  
+  
 +   type: YouTube Arduino Videos, hacking videos coming soon  
-+     where: Rebick <br />
++     where: Rebick  
    
 #   favorites:  
 @@    number: 55 @@  
