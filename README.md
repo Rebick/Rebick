@@ -1,16 +1,16 @@
-apiVersion: v23
-kind: Half Human, Half Coder
-metadata:
-name: Sergio Rebick 
-spec:
-  purpose: Check performance on systems
-  locations:
-    - 
-      type: YouTube Arduino Videos, hacking videos coming soon
-      where: Rebick
+apiVersion: v23 <br />
+kind: Half Human, Half Coder <br />
+metadata: <br />
+name: Sergio Rebick <br />
+spec: <br />
+  purpose: Check performance on systems <br />
+  locations: <br />
+    - <br />
+      type: YouTube Arduino Videos, hacking videos coming soon <br />
+      where: Rebick <br />
    
-  favorites:
-    number: 55
-    animal: :penguin:
-    emoji: :rocket:
-    food: :apple:
+  favorites: <br />
+    number: 55 <br />
+    animal: :penguin: <br />
+    emoji: :rocket: <br />
+    food: :apple: <br />
