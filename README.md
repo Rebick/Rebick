@@ -1,9 +1,5 @@
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
 @@ apiVersion: v23 @@ <br />
 - kind: Half Human, Half Coder <br />
 # metadata: <br />
