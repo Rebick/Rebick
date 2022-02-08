@@ -10,7 +10,7 @@
 !   Degree: Computer Systems Engineer
 
 # spec:  
-+   purpose: Check performance on systems  
++   purpose: Test and feedback performance in IT (HW & SW)  
 +   locations:  
   
 +   type: YouTube Arduino Videos, hacking videos coming soon  
