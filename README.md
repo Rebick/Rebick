@@ -1,7 +1,7 @@
 
 ```diff
 @@ apiVersion: v23 @@  
-- kind: Half Human, Half Coder  
+- kind: Half Human, Half Coder-debbuger 
 
 # metadata:  
 + name: Sergio Rebick  
