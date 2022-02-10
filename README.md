@@ -18,7 +18,8 @@
    
 #   favorites:  
 @@    number: 55 @@  
-@@    animal: :penguin: @@  
-@@    emoji: :rocket: @@  
-@@    food: :apple: @@  
+@@    animal: 🐧 @@  
+@@    emoji: 🚀 @@  
+@@    food: 🍎 @@  
 ```
+
