@@ -17,7 +17,8 @@
 +     where: Rebick  
    
 #   favorites:  
-@@    number: 55 @@  
+@@    number: 55 @@
+@@    OS: Linux @@
 @@    animal: 🐧 @@  
 @@    emoji: 🚀 @@  
 @@    food: 🍎 @@  
