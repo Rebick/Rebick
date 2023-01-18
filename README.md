@@ -1,7 +1,7 @@
 
 ```diff
-@@ apiVersion: v24 @@  
-- kind: Half Human, Half Coder-debbuger 
+@@ apiVersion: v25 @@  
+- kind: Half Human, Half Hacker
 
 # metadata:  
 + name: Sergio Rebick  
@@ -10,10 +10,10 @@
 !   Degree: Computer Systems Engineer
 
 # spec:  
-+   purpose: Test and feedback performance in IT (HW & SW)  
-+   locations:  
++   purpose: Explore the world IT secops
++   locations:  MX
   
-+   type: YouTube Arduino Videos, hacking videos coming soon  
++   type: RedTeamer 
 +     where: Rebick  
    
 #   favorites:  
