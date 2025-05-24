@@ -1,6 +1,6 @@
 
 ```diff
-@@ apiVersion: v25 @@  
+@@ apiVersion: v98 @@  
 - kind: Half Human, Half Hacker
 
 # metadata:  
