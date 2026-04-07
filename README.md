@@ -74,9 +74,9 @@ status:
 
 ---
 
-## 🏆 Trophies
+## 📈 Activity
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rebick&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rebick&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true" width="100%" />
 
 ---
 
